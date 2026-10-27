@@ -1,5 +1,15 @@
 # @tabler/core
 
+## 1.8.0
+
+### Minor Changes
+
+- cbfbef0: Added `.grid-cols-*` utilities (`1`–`4`, `6`, `subgrid`) and `.grid-cols-fill` with responsive variants.
+
+### Patch Changes
+
+- f251b2f: Fixed `Datepicker` throwing on a click when the start of a range is clicked again to clear it.
+
 ## 1.7.1
 
 ### Patch Changes
